@@ -1,0 +1,49 @@
+header{
+    background-color: blue;
+    color: brown;
+    text-align: center;
+    padding: 20px;
+}
+
+nav{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    display: inline-block;
+    margin:right 20px;
+
+}
+nav a{
+    color: aqua;
+    text-decoration: none;
+    padding: 5px;
+
+}
+nav a:hover{
+    color: blue
+
+}
+
+@media( max-width: 767px){
+    header{
+        background-color: red;
+    }
+}
+
+@media(max-width: 767px){
+    nav{
+        font-size: 16px;
+
+    }
+}
+@media (max-width: 1200px){
+    header{
+        width: 1200px;
+
+    }
+
+}
+

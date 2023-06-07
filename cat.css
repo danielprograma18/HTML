@@ -1,0 +1,32 @@
+
+.hola{
+    background-color: fuchsia
+    width: 400px;
+    height: 200px;
+    padding: 20px;
+    margin: 30px;
+    border: 10px;
+}
+
+.steven{
+    background-color: red
+    width: 300px;
+    height: 100px;
+    padding: 20px;
+    margin: 30px;
+    border: 10px;
+}
+
+
+
+.cr7{
+    background-color: black
+    width: 200px;
+    height: 50px;
+    padding: 20px;
+    margin: 30px;
+    border: 10px;
+}
+body{
+    background-color:burlywood;        
+}
